@@ -4,3 +4,4 @@ Neste repositório está o código relativo à Unidade Curricular de Introduçã
 | Diretório            | Descrição |
 | :------------------- | :------------------------------------------------------------------------------|
 | Exemplos de Scripts  | Scripts de Bash Shell disponibilizados para testar |
+| Práticas             | Resoluções dos exercícios das folhas propostas |
