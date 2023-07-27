@@ -1,7 +1,7 @@
-# Introdução aos Computadores (CC1002)
-Neste repositório está o código relativo à Unidade Curricular de Introdução aos Computadores do Ano Letivo 2020/2021 - DCC/FCUP.
+# Introduction to Computers (CC1002)
+This repository contains the code for Introduction to Computers Course Unit of 2020/2021 Academic Year - DCC/FCUP.
 
-| Diretório            | Descrição |
+| Folder           | Description |
 | :------------------- | :------------------------------------------------------------------------------|
-| Exemplos de Scripts  | Scripts de Bash Shell disponibilizados para testar |
-| Práticas             | Resoluções dos exercícios das folhas propostas |
+| Example Scripts  | Bash Scripts given to test |
+| Lab Classes            | Resolutions of the lab classes exercises |
